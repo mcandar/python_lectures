@@ -40,11 +40,11 @@ This repository consists of the jupyter notebook files of the Python course. Con
 - Bonus: `plotly` basics
 
 ### Class 6 - Why you often go with pandas
-- pandas: intro
-- pandas: data frames, indexing, slicing, filtering, updating
+- `pandas`: intro
+- `pandas`: data frames, indexing, slicing, filtering, updating
 - Basic operations
 - `groupby`, `join` and further
-- file read
+- File read
 
 ### Class 7 - Going deeper into pandas
 - `apply`, `resample`, `rolling`
