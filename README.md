@@ -28,25 +28,25 @@ This repository consists of the jupyter notebook files of the Python course. Con
 - Basics of OOP
 
 ## Data Analysis
-### Class 4 - Fundamental of computing - Math, stats, and analysis
+### Class 4 - Fundamentals of numerical computation
 - `numpy` intro
 - Vectoral computation
 - Fundamental `numpy` features
 
-### Class 5 - Getting more out of it - Visualization
+### Class 5 - Visuzalition
 - `matplotlib` introduction
 - Stacked plots, canvases
 - Plot controls and styles
 - Bonus: `plotly` basics
 
-### Class 6 - Why you often go with pandas
+### Class 6 - Pandas I
 - `pandas`: intro
 - `pandas`: data frames, indexing, slicing, filtering, updating
 - Basic operations
 - `groupby`, `join` and further
 - File read
 
-### Class 7 - Going deeper into pandas
+### Class 7 - Pandas II
 - `apply`, `resample`, `rolling`
 - Time Operations
 - Advanced indexing
@@ -54,12 +54,12 @@ This repository consists of the jupyter notebook files of the Python course. Con
 
 ## Machine Learning
 
-### Class 8 - Regression - Map input with an output
+### Class 8 - Regression
 - Linear Regression
 - Basic time series analysis
 - Linear time series models: AR(p), ARMA(p,q)
 
-### Class 9 - Classification - What if we want to predict only between [0,1]?
+### Class 9 - Classification
 - Logistic Regr
 - SVM
 - Decision Trees, and ensembles
